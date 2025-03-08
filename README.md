@@ -1,2 +1,7 @@
-# Community-Creations
-Community Creations | 社区创作
+# Community Creations
+
+Creations of creators in the LuaSTG community: images, audio, video, models and other assets.
+
+## Creators
+
+* Cake
