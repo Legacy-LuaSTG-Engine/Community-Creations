@@ -3,6 +3,7 @@
 ## 1、东方 Project 风格的高清子弹素材
 
 * 名称：东方 Project 风格的高清子弹素材  
+* 作者：Cake  
 * 文件：  
     * bullet1.png  
     * bullet2.png  
