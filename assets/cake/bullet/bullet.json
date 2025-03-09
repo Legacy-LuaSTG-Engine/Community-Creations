@@ -382,7 +382,7 @@
         { "name": "fade_cake:ball_huge_dark8" , "texture": "cake:bullet3", "rect": { "x": 384, "y": 384, "width": 128, "height": 128 }, "scaling": 0.5 }
     ],
     "families": {
-        "arrow_big": {
+        "arrow_big": { "description": "鳞弹，一颗小的椭球形子弹，顶着纺锤形冲击波向前高速飞行",
             "name": "arrow_big",
             "variants": [
                 { "name": "cake:arrow_big1" , "sprite": "cake:arrow_big1"  },
@@ -407,7 +407,7 @@
                 "radius": 2.5
             }
         },
-        "gun_bullet": {
+        "gun_bullet": { "description": "枪弹，顾名思义圆柱体拼上头部的圆锥",
             "name": "gun_bullet",
             "variants": [
                 { "name": "cake:gun_bullet1" , "sprite": "cake:gun_bullet1"  },
@@ -432,7 +432,7 @@
                 "radius": 2.5
             }
         },
-        "star_small": {
+        "star_small": { "description": "小星弹",
             "name": "star_small",
             "variants": [
                 { "name": "cake:star_small1" , "sprite": "cake:star_small1"  },
@@ -457,7 +457,7 @@
                 "radius": 3
             }
         },
-        "butterfly": {
+        "butterfly": { "description": "蝶弹",
             "name": "butterfly",
             "variants": [
                 { "name": "cake:butterfly1", "sprite": "cake:butterfly1" },
@@ -474,7 +474,7 @@
                 "radius": 4
             }
         },
-        "square": {
+        "square": { "description": "札弹，附有法力的符札是对付敌人的利器",
             "name": "square",
             "variants": [
                 { "name": "cake:square1" , "sprite": "cake:square1"  },
@@ -499,7 +499,7 @@
                 "radius": 3
             }
         },
-        "ball_mid": {
+        "ball_mid": { "description": "中玉，球形子弹",
             "name": "ball_mid",
             "variants": [
                 { "name": "cake:ball_mid1", "sprite": "cake:ball_mid1" },
@@ -516,7 +516,7 @@
                 "radius": 4
             }
         },
-        "grain_b": {
+        "grain_b": { "description": "锥弹，两头尖，中间为六棱柱，蓝色的像一块冰，红色的像一块宝石",
             "name": "grain_b",
             "variants": [
                 { "name": "cake:grain_b1" , "sprite": "cake:grain_b1"  },
@@ -541,7 +541,7 @@
                 "radius": 2.5
             }
         },
-        "arrow_small": {
+        "arrow_small": { "description": "苦无弹",
             "name": "arrow_small",
             "variants": [
                 { "name": "cake:arrow_small1" , "sprite": "cake:arrow_small1"  },
@@ -566,7 +566,7 @@
                 "radius": 2.5
             }
         },
-        "money": {
+        "money": { "description": "钱弹，古时的钱币",
             "name": "money",
             "variants": [
                 { "name": "cake:money1", "sprite": "cake:money1" },
@@ -583,7 +583,7 @@
                 "radius": 4
             }
         },
-        "ellipse": {
+        "ellipse": { "description": "椭弹，稍大的椭球形",
             "name": "ellipse",
             "variants": [
                 { "name": "cake:ellipse1", "sprite": "cake:ellipse1" },
@@ -600,7 +600,7 @@
                 "radius": 4.5
             }
         },
-        "grain_a": {
+        "grain_a": { "description": "米弹，外观就像一粒米",
             "name": "grain_a",
             "variants": [
                 { "name": "cake:grain_a1" , "sprite": "cake:grain_a1"  },
@@ -625,7 +625,7 @@
                 "radius": 2.5
             }
         },
-        "ball_small": {
+        "ball_small": { "description": "粒弹，非常小的球形子弹",
             "name": "ball_small",
             "variants": [
                 { "name": "cake:ball_small1" , "sprite": "cake:ball_small1"  },
@@ -650,7 +650,7 @@
                 "radius": 2
             }
         },
-        "mildew": {
+        "mildew": { "description": "黑粒弹，非常小的球形子弹，但内部是黑色的",
             "name": "mildew",
             "variants": [
                 { "name": "cake:mildew1" , "sprite": "cake:mildew1"  },
@@ -675,7 +675,7 @@
                 "radius": 2
             }
         },
-        "ball_big": {
+        "ball_big": { "description": "中玉，较大的球形子弹，能塞下一只蝶弹",
             "name": "ball_big",
             "variants": [
                 { "name": "cake:ball_big1", "sprite": "cake:ball_big1" },
@@ -692,7 +692,7 @@
                 "radius": 8
             }
         },
-        "knife": {
+        "knife": { "description": "刀弹，一把笔直的匕首",
             "name": "knife",
             "variants": [
                 { "name": "cake:knife1", "sprite": "cake:knife1" },
@@ -709,7 +709,7 @@
                 "radius": 4
             }
         },
-        "ball_mid_c": {
+        "ball_mid_c": { "description": "环玉，和中玉一样大，球形的子弹外面还包裹着一层半透明的膜",
             "name": "ball_mid_c",
             "variants": [
                 { "name": "cake:ball_mid_c1", "sprite": "cake:ball_mid_c1" },
@@ -726,7 +726,7 @@
                 "radius": 4
             }
         },
-        "grain_c": {
+        "grain_c": { "description": "黑米弹，外观就像一粒米，但内部是黑色的",
             "name": "grain_c",
             "variants": [
                 { "name": "cake:grain_c1" , "sprite": "cake:grain_c1"  },
@@ -751,7 +751,7 @@
                 "radius": 2.5
             }
         },
-        "star_big": {
+        "star_big": { "description": "大星弹",
             "name": "star_big",
             "variants": [
                 { "name": "cake:star_big1", "sprite": "cake:star_big1" },
@@ -768,7 +768,7 @@
                 "radius": 5.5
             }
         },
-        "arrow_mid": {
+        "arrow_mid": { "description": "箭弹，和刀弹一样长",
             "name": "arrow_mid",
             "variants": [
                 { "name": "cake:arrow_mid1", "sprite": "cake:arrow_mid1" },
@@ -785,7 +785,7 @@
                 "radius": 3.5
             }
         },
-        "heart": {
+        "heart": { "description": "心弹",
             "name": "heart",
             "variants": [
                 { "name": "cake:heart1", "sprite": "cake:heart1" },
@@ -802,7 +802,7 @@
                 "radius": 9
             }
         },
-        "kite": {
+        "kite": { "description": "滴弹，外形像水滴，也有人觉得它应该叫鸢弹，因为外形像纸鸢风筝",
             "name": "kite",
             "variants": [
                 { "name": "cake:kite1" , "sprite": "cake:kite1"  },
@@ -827,7 +827,7 @@
                 "radius": 2.5
             }
         },
-        "silence": {
+        "silence": { "description": "休止符",
             "name": "silence",
             "variants": [
                 { "name": "cake:silence1", "sprite": "cake:silence1" },
@@ -844,7 +844,7 @@
                 "radius": 4.5
             }
         },
-        "knife_b": {
+        "knife_b": { "description": "弯刀弹，刀刃呈现出弧形，适合削苹果皮",
             "name": "knife_b",
             "variants": [
                 { "name": "cake:knife_b1", "sprite": "cake:knife_b1" },
@@ -861,7 +861,7 @@
                 "radius": 3.5
             }
         },
-        "ball_light": {
+        "ball_light": { "description": "发光光玉，较大的球形子弹，明亮得让人睁不开眼睛",
             "name": "ball_light",
             "variants": [
                 { "name": "cake:ball_light1", "sprite": "cake:ball_light1" },
@@ -878,7 +878,7 @@
                 "radius": 11.5
             }
         },
-        "ball_light_dark": {
+        "ball_light_dark": { "description": "光玉，较大的球形子弹",
             "name": "ball_light_dark",
             "variants": [
                 { "name": "cake:ball_light_dark1", "sprite": "cake:ball_light_dark1" },
@@ -895,7 +895,7 @@
                 "radius": 11.5
             }
         },
-        "ball_huge": {
+        "ball_huge": { "description": "发光大玉，巨大的球形子弹，中心似乎是空的",
             "name": "ball_huge",
             "variants": [
                 { "name": "cake:ball_huge1", "sprite": "cake:ball_huge1" },
@@ -912,7 +912,7 @@
                 "radius": 13.5
             }
         },
-        "ball_huge_dark": {
+        "ball_huge_dark": { "description": "大玉，巨大的球形子弹，中心无法被完全照亮，于是它的中心呈现出黑色",
             "name": "ball_huge_dark",
             "variants": [
                 { "name": "cake:ball_huge_dark1", "sprite": "cake:ball_huge_dark1" },
