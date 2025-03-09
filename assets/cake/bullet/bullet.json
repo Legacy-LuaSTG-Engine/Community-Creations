@@ -516,7 +516,7 @@
                 "radius": 4
             }
         },
-        "grain_b": { "description": "锥弹，两头尖，中间为六棱柱，蓝色的像一块冰，红色的像一块宝石",
+        "grain_b": { "description": "棱弹，中间为棱柱，两头收尖为棱柱",
             "name": "grain_b",
             "variants": [
                 { "name": "cake:grain_b1" , "sprite": "cake:grain_b1"  },
@@ -541,7 +541,7 @@
                 "radius": 2.5
             }
         },
-        "arrow_small": { "description": "苦无弹",
+        "arrow_small": { "description": "苦无弹，排成一条线杀过来时，就像一条锁链环环相扣，于是有人称其为链弹",
             "name": "arrow_small",
             "variants": [
                 { "name": "cake:arrow_small1" , "sprite": "cake:arrow_small1"  },
@@ -625,7 +625,7 @@
                 "radius": 2.5
             }
         },
-        "ball_small": { "description": "粒弹，非常小的球形子弹",
+        "ball_small": { "description": "点弹，非常小的球形子弹",
             "name": "ball_small",
             "variants": [
                 { "name": "cake:ball_small1" , "sprite": "cake:ball_small1"  },
@@ -650,7 +650,7 @@
                 "radius": 2
             }
         },
-        "mildew": { "description": "黑粒弹，非常小的球形子弹，但内部是黑色的",
+        "mildew": { "description": "黑点弹，非常小的球形子弹，但内部是黑色的，似乎携带着细菌，有人称其为菌弹",
             "name": "mildew",
             "variants": [
                 { "name": "cake:mildew1" , "sprite": "cake:mildew1"  },
@@ -709,7 +709,7 @@
                 "radius": 4
             }
         },
-        "ball_mid_c": { "description": "环玉，和中玉一样大，球形的子弹外面还包裹着一层半透明的膜",
+        "ball_mid_c": { "description": "环玉，和小玉一样大，球形的子弹外面还包裹着一层半透明的膜",
             "name": "ball_mid_c",
             "variants": [
                 { "name": "cake:ball_mid_c1", "sprite": "cake:ball_mid_c1" },
@@ -726,7 +726,7 @@
                 "radius": 4
             }
         },
-        "grain_c": { "description": "黑米弹，外观就像一粒米，但内部是黑色的",
+        "grain_c": { "description": "黑米弹，外观就像一粒米，但内部是黑色的，长得像细菌，于是有人也称其为杆菌弹（大肠杆菌）",
             "name": "grain_c",
             "variants": [
                 { "name": "cake:grain_c1" , "sprite": "cake:grain_c1"  },
