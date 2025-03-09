@@ -407,7 +407,7 @@
                 "radius": 2.5
             }
         },
-        "gun_bullet": { "description": "枪弹，顾名思义圆柱体拼上头部的圆锥",
+        "gun_bullet": { "description": "铳弹，用于表演美式居合",
             "name": "gun_bullet",
             "variants": [
                 { "name": "cake:gun_bullet1" , "sprite": "cake:gun_bullet1"  },
