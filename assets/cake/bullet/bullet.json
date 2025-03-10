@@ -2,7 +2,9 @@
     "textures": [
         { "name": "cake:bullet1", "path": "bullet1.png", "mipmap": false },
         { "name": "cake:bullet2", "path": "bullet2.png", "mipmap": false },
-        { "name": "cake:bullet3", "path": "bullet3.png", "mipmap": false }
+        { "name": "cake:bullet3", "path": "bullet3.png", "mipmap": false },
+        { "name": "cake:bullet_water_drop", "path": "bullet_water_drop.png", "mipmap": false },
+        { "name": "cake:bullet_music", "path": "bullet_music.png", "mipmap": false }
     ],
     "sprites": [
         { "name": "cake:arrow_big1" , "texture": "cake:bullet1", "rect": { "x": 0, "y": 0  , "width": 30, "height": 32 }, "center": { "x": 9, "y": 16 }, "scaling": 0.5 },
@@ -379,7 +381,50 @@
         { "name": "fade_cake:ball_huge_dark5" , "texture": "cake:bullet3", "rect": { "x": 0  , "y": 384, "width": 128, "height": 128 }, "scaling": 0.5 },
         { "name": "fade_cake:ball_huge_dark6" , "texture": "cake:bullet3", "rect": { "x": 128, "y": 384, "width": 128, "height": 128 }, "scaling": 0.5 },
         { "name": "fade_cake:ball_huge_dark7" , "texture": "cake:bullet3", "rect": { "x": 256, "y": 384, "width": 128, "height": 128 }, "scaling": 0.5 },
-        { "name": "fade_cake:ball_huge_dark8" , "texture": "cake:bullet3", "rect": { "x": 384, "y": 384, "width": 128, "height": 128 }, "scaling": 0.5 }
+        { "name": "fade_cake:ball_huge_dark8" , "texture": "cake:bullet3", "rect": { "x": 384, "y": 384, "width": 128, "height": 128 }, "scaling": 0.5 },
+
+        { "name": "cake:water_drop1_1" , "texture": "cake:bullet_water_drop", "rect": { "x": 0  , "y": 0  , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop1_2" , "texture": "cake:bullet_water_drop", "rect": { "x": 0  , "y": 64 , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop1_3" , "texture": "cake:bullet_water_drop", "rect": { "x": 0  , "y": 128, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop1_4" , "texture": "cake:bullet_water_drop", "rect": { "x": 0  , "y": 192, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop2_1" , "texture": "cake:bullet_water_drop", "rect": { "x": 96 , "y": 0  , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop2_2" , "texture": "cake:bullet_water_drop", "rect": { "x": 96 , "y": 64 , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop2_3" , "texture": "cake:bullet_water_drop", "rect": { "x": 96 , "y": 128, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop2_4" , "texture": "cake:bullet_water_drop", "rect": { "x": 96 , "y": 192, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop3_1" , "texture": "cake:bullet_water_drop", "rect": { "x": 192, "y": 0  , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop3_2" , "texture": "cake:bullet_water_drop", "rect": { "x": 192, "y": 64 , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop3_3" , "texture": "cake:bullet_water_drop", "rect": { "x": 192, "y": 128, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop3_4" , "texture": "cake:bullet_water_drop", "rect": { "x": 192, "y": 192, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop4_1" , "texture": "cake:bullet_water_drop", "rect": { "x": 288, "y": 0  , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop4_2" , "texture": "cake:bullet_water_drop", "rect": { "x": 288, "y": 64 , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop4_3" , "texture": "cake:bullet_water_drop", "rect": { "x": 288, "y": 128, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop4_4" , "texture": "cake:bullet_water_drop", "rect": { "x": 288, "y": 192, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop5_1" , "texture": "cake:bullet_water_drop", "rect": { "x": 384, "y": 0  , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop5_2" , "texture": "cake:bullet_water_drop", "rect": { "x": 384, "y": 64 , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop5_3" , "texture": "cake:bullet_water_drop", "rect": { "x": 384, "y": 128, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop5_4" , "texture": "cake:bullet_water_drop", "rect": { "x": 384, "y": 192, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop6_1" , "texture": "cake:bullet_water_drop", "rect": { "x": 480, "y": 0  , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop6_2" , "texture": "cake:bullet_water_drop", "rect": { "x": 480, "y": 64 , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop6_3" , "texture": "cake:bullet_water_drop", "rect": { "x": 480, "y": 128, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop6_4" , "texture": "cake:bullet_water_drop", "rect": { "x": 480, "y": 192, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop7_1" , "texture": "cake:bullet_water_drop", "rect": { "x": 576, "y": 0  , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop7_2" , "texture": "cake:bullet_water_drop", "rect": { "x": 576, "y": 64 , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop7_3" , "texture": "cake:bullet_water_drop", "rect": { "x": 576, "y": 128, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop7_4" , "texture": "cake:bullet_water_drop", "rect": { "x": 576, "y": 192, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop8_1" , "texture": "cake:bullet_water_drop", "rect": { "x": 672, "y": 0  , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop8_2" , "texture": "cake:bullet_water_drop", "rect": { "x": 672, "y": 64 , "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop8_3" , "texture": "cake:bullet_water_drop", "rect": { "x": 672, "y": 128, "width": 96, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:water_drop8_4" , "texture": "cake:bullet_water_drop", "rect": { "x": 672, "y": 192, "width": 96, "height": 64 }, "scaling": 0.5 }
+    ],
+    "sprite_sequences": [
+        { "name": "cake:water_drop1", "sprites": [ "cake:water_drop1_1", "cake:water_drop1_2", "cake:water_drop1_3", "cake:water_drop1_4", "cake:water_drop1_3", "cake:water_drop1_2" ], "interval": 4 },
+        { "name": "cake:water_drop2", "sprites": [ "cake:water_drop2_1", "cake:water_drop2_2", "cake:water_drop2_3", "cake:water_drop2_4", "cake:water_drop2_3", "cake:water_drop2_2" ], "interval": 4 },
+        { "name": "cake:water_drop3", "sprites": [ "cake:water_drop3_1", "cake:water_drop3_2", "cake:water_drop3_3", "cake:water_drop3_4", "cake:water_drop3_3", "cake:water_drop3_2" ], "interval": 4 },
+        { "name": "cake:water_drop4", "sprites": [ "cake:water_drop4_1", "cake:water_drop4_2", "cake:water_drop4_3", "cake:water_drop4_4", "cake:water_drop4_3", "cake:water_drop4_2" ], "interval": 4 },
+        { "name": "cake:water_drop5", "sprites": [ "cake:water_drop5_1", "cake:water_drop5_2", "cake:water_drop5_3", "cake:water_drop5_4", "cake:water_drop5_3", "cake:water_drop5_2" ], "interval": 4 },
+        { "name": "cake:water_drop6", "sprites": [ "cake:water_drop6_1", "cake:water_drop6_2", "cake:water_drop6_3", "cake:water_drop6_4", "cake:water_drop6_3", "cake:water_drop6_2" ], "interval": 4 },
+        { "name": "cake:water_drop7", "sprites": [ "cake:water_drop7_1", "cake:water_drop7_2", "cake:water_drop7_3", "cake:water_drop7_4", "cake:water_drop7_3", "cake:water_drop7_2" ], "interval": 4 },
+        { "name": "cake:water_drop8", "sprites": [ "cake:water_drop8_1", "cake:water_drop8_2", "cake:water_drop8_3", "cake:water_drop8_4", "cake:water_drop8_3", "cake:water_drop8_2" ], "interval": 4 }
     ],
     "families": {
         "arrow_big": { "description": "鳞弹，一颗小的椭球形子弹，顶着纺锤形冲击波向前高速飞行",
