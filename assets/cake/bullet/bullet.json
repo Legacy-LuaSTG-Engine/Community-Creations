@@ -1016,6 +1016,57 @@
                 "type": "circle",
                 "radius": 13.5
             }
+        },
+        "water_drop": { "description": "发光水弹，明亮得让人不得不眯着眼睛，当它们发出温暖的光时，也有人称它们为火弹",
+            "name": "water_drop",
+            "variants": [
+                { "name": "cake:water_drop1", "sprite_sequence": "cake:water_drop1" },
+                { "name": "cake:water_drop2", "sprite_sequence": "cake:water_drop2" },
+                { "name": "cake:water_drop3", "sprite_sequence": "cake:water_drop3" },
+                { "name": "cake:water_drop4", "sprite_sequence": "cake:water_drop4" },
+                { "name": "cake:water_drop5", "sprite_sequence": "cake:water_drop5" },
+                { "name": "cake:water_drop6", "sprite_sequence": "cake:water_drop6" },
+                { "name": "cake:water_drop7", "sprite_sequence": "cake:water_drop7" },
+                { "name": "cake:water_drop8", "sprite_sequence": "cake:water_drop8" }
+            ],
+            "collider": {
+                "type": "circle",
+                "radius": 4
+            }
+        },
+        "water_drop_dark": { "description": "水弹，当它们发出温暖的光时，也有人称它们为火弹",
+            "name": "water_drop_dark",
+            "variants": [
+                { "name": "cake:water_drop_dark1", "sprite_sequence": "cake:water_drop_dark1" },
+                { "name": "cake:water_drop_dark2", "sprite_sequence": "cake:water_drop_dark2" },
+                { "name": "cake:water_drop_dark3", "sprite_sequence": "cake:water_drop_dark3" },
+                { "name": "cake:water_drop_dark4", "sprite_sequence": "cake:water_drop_dark4" },
+                { "name": "cake:water_drop_dark5", "sprite_sequence": "cake:water_drop_dark5" },
+                { "name": "cake:water_drop_dark6", "sprite_sequence": "cake:water_drop_dark6" },
+                { "name": "cake:water_drop_dark7", "sprite_sequence": "cake:water_drop_dark7" },
+                { "name": "cake:water_drop_dark8", "sprite_sequence": "cake:water_drop_dark8" }
+            ],
+            "collider": {
+                "type": "circle",
+                "radius": 4
+            }
+        },
+        "music": { "description": "音符，不断地扭动，造成视觉精神污染",
+            "name": "music",
+            "variants": [
+                { "name": "cake:music1", "sprite_sequence": "cake:music1" },
+                { "name": "cake:music2", "sprite_sequence": "cake:music2" },
+                { "name": "cake:music3", "sprite_sequence": "cake:music3" },
+                { "name": "cake:music4", "sprite_sequence": "cake:music4" },
+                { "name": "cake:music5", "sprite_sequence": "cake:music5" },
+                { "name": "cake:music6", "sprite_sequence": "cake:music6" },
+                { "name": "cake:music7", "sprite_sequence": "cake:music7" },
+                { "name": "cake:music8", "sprite_sequence": "cake:music8" }
+            ],
+            "collider": {
+                "type": "circle",
+                "radius": 4
+            }
         }
     }
 }
