@@ -50,6 +50,15 @@
         { "name": "cake:preimg7" , "texture": "cake:bullet1", "rect": { "x": 64, "y": 384, "width": 64, "height": 64 }, "scaling": 0.5 },
         { "name": "cake:preimg8" , "texture": "cake:bullet1", "rect": { "x": 64, "y": 448, "width": 64, "height": 64 }, "scaling": 0.5 },
 
+        { "name": "cake:laser_node1" , "texture": "cake:bullet1", "rect": { "x": 64, "y": 0  , "width": 64, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:laser_node2" , "texture": "cake:bullet1", "rect": { "x": 64, "y": 64 , "width": 64, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:laser_node3" , "texture": "cake:bullet1", "rect": { "x": 64, "y": 128, "width": 64, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:laser_node4" , "texture": "cake:bullet1", "rect": { "x": 64, "y": 192, "width": 64, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:laser_node5" , "texture": "cake:bullet1", "rect": { "x": 64, "y": 256, "width": 64, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:laser_node6" , "texture": "cake:bullet1", "rect": { "x": 64, "y": 320, "width": 64, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:laser_node7" , "texture": "cake:bullet1", "rect": { "x": 64, "y": 384, "width": 64, "height": 64 }, "scaling": 0.5 },
+        { "name": "cake:laser_node8" , "texture": "cake:bullet1", "rect": { "x": 64, "y": 448, "width": 64, "height": 64 }, "scaling": 0.5 },
+
         { "name": "cake:star_small1" , "texture": "cake:bullet1", "rect": { "x": 128, "y": 0  , "width": 32, "height": 32 }, "center": { "x": 16, "y": 17 }, "scaling": 0.5 },
         { "name": "cake:star_small2" , "texture": "cake:bullet1", "rect": { "x": 128, "y": 32 , "width": 32, "height": 32 }, "center": { "x": 16, "y": 17 }, "scaling": 0.5 },
         { "name": "cake:star_small3" , "texture": "cake:bullet1", "rect": { "x": 128, "y": 64 , "width": 32, "height": 32 }, "center": { "x": 16, "y": 17 }, "scaling": 0.5 },
