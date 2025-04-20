@@ -970,14 +970,14 @@
         "ball_light": { "description": "发光光玉，较大的球形子弹，明亮得让人睁不开眼睛",
             "name": "ball_light",
             "variants": [
-                { "name": "cake:ball_light1", "sprite": "cake:ball_light_dark1" },
-                { "name": "cake:ball_light2", "sprite": "cake:ball_light_dark2" },
-                { "name": "cake:ball_light3", "sprite": "cake:ball_light_dark3" },
-                { "name": "cake:ball_light4", "sprite": "cake:ball_light_dark4" },
-                { "name": "cake:ball_light5", "sprite": "cake:ball_light_dark5" },
-                { "name": "cake:ball_light6", "sprite": "cake:ball_light_dark6" },
-                { "name": "cake:ball_light7", "sprite": "cake:ball_light_dark7" },
-                { "name": "cake:ball_light8", "sprite": "cake:ball_light_dark8" }
+                { "name": "cake:ball_light1", "sprite": "cake:ball_light1" },
+                { "name": "cake:ball_light2", "sprite": "cake:ball_light2" },
+                { "name": "cake:ball_light3", "sprite": "cake:ball_light3" },
+                { "name": "cake:ball_light4", "sprite": "cake:ball_light4" },
+                { "name": "cake:ball_light5", "sprite": "cake:ball_light5" },
+                { "name": "cake:ball_light6", "sprite": "cake:ball_light6" },
+                { "name": "cake:ball_light7", "sprite": "cake:ball_light7" },
+                { "name": "cake:ball_light8", "sprite": "cake:ball_light8" }
             ],
             "blend": "mul+add",
             "collider": {
@@ -1005,14 +1005,14 @@
         "ball_huge": { "description": "发光大玉，巨大的球形子弹，中心似乎是空的",
             "name": "ball_huge",
             "variants": [
-                { "name": "cake:ball_huge1", "sprite": "cake:ball_huge_dark1" },
-                { "name": "cake:ball_huge2", "sprite": "cake:ball_huge_dark2" },
-                { "name": "cake:ball_huge3", "sprite": "cake:ball_huge_dark3" },
-                { "name": "cake:ball_huge4", "sprite": "cake:ball_huge_dark4" },
-                { "name": "cake:ball_huge5", "sprite": "cake:ball_huge_dark5" },
-                { "name": "cake:ball_huge6", "sprite": "cake:ball_huge_dark6" },
-                { "name": "cake:ball_huge7", "sprite": "cake:ball_huge_dark7" },
-                { "name": "cake:ball_huge8", "sprite": "cake:ball_huge_dark8" }
+                { "name": "cake:ball_huge1", "sprite": "cake:ball_huge1" },
+                { "name": "cake:ball_huge2", "sprite": "cake:ball_huge2" },
+                { "name": "cake:ball_huge3", "sprite": "cake:ball_huge3" },
+                { "name": "cake:ball_huge4", "sprite": "cake:ball_huge4" },
+                { "name": "cake:ball_huge5", "sprite": "cake:ball_huge5" },
+                { "name": "cake:ball_huge6", "sprite": "cake:ball_huge6" },
+                { "name": "cake:ball_huge7", "sprite": "cake:ball_huge7" },
+                { "name": "cake:ball_huge8", "sprite": "cake:ball_huge8" }
             ],
             "blend": "mul+add",
             "collider": {
@@ -1040,14 +1040,14 @@
         "water_drop": { "description": "发光水弹，明亮得让人不得不眯着眼睛，当它们发出温暖的光时，也有人称它们为火弹",
             "name": "water_drop",
             "variants": [
-                { "name": "cake:water_drop1", "sprite_sequence": "cake:water_drop_dark1" },
-                { "name": "cake:water_drop2", "sprite_sequence": "cake:water_drop_dark2" },
-                { "name": "cake:water_drop3", "sprite_sequence": "cake:water_drop_dark3" },
-                { "name": "cake:water_drop4", "sprite_sequence": "cake:water_drop_dark4" },
-                { "name": "cake:water_drop5", "sprite_sequence": "cake:water_drop_dark5" },
-                { "name": "cake:water_drop6", "sprite_sequence": "cake:water_drop_dark6" },
-                { "name": "cake:water_drop7", "sprite_sequence": "cake:water_drop_dark7" },
-                { "name": "cake:water_drop8", "sprite_sequence": "cake:water_drop_dark8" }
+                { "name": "cake:water_drop1", "sprite_sequence": "cake:water_drop1" },
+                { "name": "cake:water_drop2", "sprite_sequence": "cake:water_drop2" },
+                { "name": "cake:water_drop3", "sprite_sequence": "cake:water_drop3" },
+                { "name": "cake:water_drop4", "sprite_sequence": "cake:water_drop4" },
+                { "name": "cake:water_drop5", "sprite_sequence": "cake:water_drop5" },
+                { "name": "cake:water_drop6", "sprite_sequence": "cake:water_drop6" },
+                { "name": "cake:water_drop7", "sprite_sequence": "cake:water_drop7" },
+                { "name": "cake:water_drop8", "sprite_sequence": "cake:water_drop8" }
             ],
             "blend": "mul+add",
             "collider": {

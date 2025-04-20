@@ -970,14 +970,14 @@
         "ball_light": { "description": "发光光玉，较大的球形子弹，明亮得让人睁不开眼睛",
             "name": "ball_light",
             "variants": [
-                { "name": "ball_light1", "sprite": "ball_light_dark1" },
-                { "name": "ball_light2", "sprite": "ball_light_dark2" },
-                { "name": "ball_light3", "sprite": "ball_light_dark3" },
-                { "name": "ball_light4", "sprite": "ball_light_dark4" },
-                { "name": "ball_light5", "sprite": "ball_light_dark5" },
-                { "name": "ball_light6", "sprite": "ball_light_dark6" },
-                { "name": "ball_light7", "sprite": "ball_light_dark7" },
-                { "name": "ball_light8", "sprite": "ball_light_dark8" }
+                { "name": "ball_light1", "sprite": "ball_light1" },
+                { "name": "ball_light2", "sprite": "ball_light2" },
+                { "name": "ball_light3", "sprite": "ball_light3" },
+                { "name": "ball_light4", "sprite": "ball_light4" },
+                { "name": "ball_light5", "sprite": "ball_light5" },
+                { "name": "ball_light6", "sprite": "ball_light6" },
+                { "name": "ball_light7", "sprite": "ball_light7" },
+                { "name": "ball_light8", "sprite": "ball_light8" }
             ],
             "blend": "mul+add",
             "collider": {
@@ -1005,14 +1005,14 @@
         "ball_huge": { "description": "发光大玉，巨大的球形子弹，中心似乎是空的",
             "name": "ball_huge",
             "variants": [
-                { "name": "ball_huge1", "sprite": "ball_huge_dark1" },
-                { "name": "ball_huge2", "sprite": "ball_huge_dark2" },
-                { "name": "ball_huge3", "sprite": "ball_huge_dark3" },
-                { "name": "ball_huge4", "sprite": "ball_huge_dark4" },
-                { "name": "ball_huge5", "sprite": "ball_huge_dark5" },
-                { "name": "ball_huge6", "sprite": "ball_huge_dark6" },
-                { "name": "ball_huge7", "sprite": "ball_huge_dark7" },
-                { "name": "ball_huge8", "sprite": "ball_huge_dark8" }
+                { "name": "ball_huge1", "sprite": "ball_huge1" },
+                { "name": "ball_huge2", "sprite": "ball_huge2" },
+                { "name": "ball_huge3", "sprite": "ball_huge3" },
+                { "name": "ball_huge4", "sprite": "ball_huge4" },
+                { "name": "ball_huge5", "sprite": "ball_huge5" },
+                { "name": "ball_huge6", "sprite": "ball_huge6" },
+                { "name": "ball_huge7", "sprite": "ball_huge7" },
+                { "name": "ball_huge8", "sprite": "ball_huge8" }
             ],
             "blend": "mul+add",
             "collider": {
@@ -1040,14 +1040,14 @@
         "water_drop": { "description": "发光水弹，明亮得让人不得不眯着眼睛，当它们发出温暖的光时，也有人称它们为火弹",
             "name": "water_drop",
             "variants": [
-                { "name": "water_drop1", "sprite_sequence": "water_drop_dark1" },
-                { "name": "water_drop2", "sprite_sequence": "water_drop_dark2" },
-                { "name": "water_drop3", "sprite_sequence": "water_drop_dark3" },
-                { "name": "water_drop4", "sprite_sequence": "water_drop_dark4" },
-                { "name": "water_drop5", "sprite_sequence": "water_drop_dark5" },
-                { "name": "water_drop6", "sprite_sequence": "water_drop_dark6" },
-                { "name": "water_drop7", "sprite_sequence": "water_drop_dark7" },
-                { "name": "water_drop8", "sprite_sequence": "water_drop_dark8" }
+                { "name": "water_drop1", "sprite_sequence": "water_drop1" },
+                { "name": "water_drop2", "sprite_sequence": "water_drop2" },
+                { "name": "water_drop3", "sprite_sequence": "water_drop3" },
+                { "name": "water_drop4", "sprite_sequence": "water_drop4" },
+                { "name": "water_drop5", "sprite_sequence": "water_drop5" },
+                { "name": "water_drop6", "sprite_sequence": "water_drop6" },
+                { "name": "water_drop7", "sprite_sequence": "water_drop7" },
+                { "name": "water_drop8", "sprite_sequence": "water_drop8" }
             ],
             "blend": "mul+add",
             "collider": {
