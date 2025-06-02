@@ -10559,6 +10559,38 @@
         {
           "name": "star_big8",
           "sprite": "star_big8"
+        },
+        {
+          "name": "star_big9",
+          "sprite": "star_big9"
+        },
+        {
+          "name": "star_big10",
+          "sprite": "star_big10"
+        },
+        {
+          "name": "star_big11",
+          "sprite": "star_big11"
+        },
+        {
+          "name": "star_big12",
+          "sprite": "star_big12"
+        },
+        {
+          "name": "star_big13",
+          "sprite": "star_big13"
+        },
+        {
+          "name": "star_big14",
+          "sprite": "star_big14"
+        },
+        {
+          "name": "star_big15",
+          "sprite": "star_big15"
+        },
+        {
+          "name": "star_big16",
+          "sprite": "star_big16"
         }
       ],
       "collider": {
@@ -10601,6 +10633,38 @@
         {
           "name": "arrow_mid8",
           "sprite": "arrow_mid8"
+        },
+        {
+          "name": "arrow_mid9",
+          "sprite": "arrow_mid9"
+        },
+        {
+          "name": "arrow_mid10",
+          "sprite": "arrow_mid10"
+        },
+        {
+          "name": "arrow_mid11",
+          "sprite": "arrow_mid11"
+        },
+        {
+          "name": "arrow_mid12",
+          "sprite": "arrow_mid12"
+        },
+        {
+          "name": "arrow_mid13",
+          "sprite": "arrow_mid13"
+        },
+        {
+          "name": "arrow_mid14",
+          "sprite": "arrow_mid14"
+        },
+        {
+          "name": "arrow_mid15",
+          "sprite": "arrow_mid15"
+        },
+        {
+          "name": "arrow_mid16",
+          "sprite": "arrow_mid16"
         }
       ],
       "collider": {
@@ -10643,6 +10707,38 @@
         {
           "name": "heart8",
           "sprite": "heart8"
+        },
+        {
+          "name": "heart9",
+          "sprite": "heart9"
+        },
+        {
+          "name": "heart10",
+          "sprite": "heart10"
+        },
+        {
+          "name": "heart11",
+          "sprite": "heart11"
+        },
+        {
+          "name": "heart12",
+          "sprite": "heart12"
+        },
+        {
+          "name": "heart13",
+          "sprite": "heart13"
+        },
+        {
+          "name": "heart14",
+          "sprite": "heart14"
+        },
+        {
+          "name": "heart15",
+          "sprite": "heart15"
+        },
+        {
+          "name": "heart16",
+          "sprite": "heart16"
         }
       ],
       "collider": {
@@ -10759,6 +10855,38 @@
         {
           "name": "silence8",
           "sprite": "silence8"
+        },
+        {
+          "name": "silence9",
+          "sprite": "silence9"
+        },
+        {
+          "name": "silence10",
+          "sprite": "silence10"
+        },
+        {
+          "name": "silence11",
+          "sprite": "silence11"
+        },
+        {
+          "name": "silence12",
+          "sprite": "silence12"
+        },
+        {
+          "name": "silence13",
+          "sprite": "silence13"
+        },
+        {
+          "name": "silence14",
+          "sprite": "silence14"
+        },
+        {
+          "name": "silence15",
+          "sprite": "silence15"
+        },
+        {
+          "name": "silence16",
+          "sprite": "silence16"
         }
       ],
       "collider": {
@@ -10801,6 +10929,38 @@
         {
           "name": "knife_b8",
           "sprite": "knife_b8"
+        },
+        {
+          "name": "knife_b9",
+          "sprite": "knife_b9"
+        },
+        {
+          "name": "knife_b10",
+          "sprite": "knife_b10"
+        },
+        {
+          "name": "knife_b11",
+          "sprite": "knife_b11"
+        },
+        {
+          "name": "knife_b12",
+          "sprite": "knife_b12"
+        },
+        {
+          "name": "knife_b13",
+          "sprite": "knife_b13"
+        },
+        {
+          "name": "knife_b14",
+          "sprite": "knife_b14"
+        },
+        {
+          "name": "knife_b15",
+          "sprite": "knife_b15"
+        },
+        {
+          "name": "knife_b16",
+          "sprite": "knife_b16"
         }
       ],
       "collider": {
@@ -10843,6 +11003,38 @@
         {
           "name": "ball_light8",
           "sprite": "ball_light8"
+        },
+        {
+          "name": "ball_light9",
+          "sprite": "ball_light9"
+        },
+        {
+          "name": "ball_light10",
+          "sprite": "ball_light10"
+        },
+        {
+          "name": "ball_light11",
+          "sprite": "ball_light11"
+        },
+        {
+          "name": "ball_light12",
+          "sprite": "ball_light12"
+        },
+        {
+          "name": "ball_light13",
+          "sprite": "ball_light13"
+        },
+        {
+          "name": "ball_light14",
+          "sprite": "ball_light14"
+        },
+        {
+          "name": "ball_light15",
+          "sprite": "ball_light15"
+        },
+        {
+          "name": "ball_light16",
+          "sprite": "ball_light16"
         }
       ],
       "blend": "mul+add",
@@ -10886,6 +11078,38 @@
         {
           "name": "ball_light_dark8",
           "sprite": "ball_light_dark8"
+        },
+        {
+          "name": "ball_light_dark9",
+          "sprite": "ball_light_dark9"
+        },
+        {
+          "name": "ball_light_dark10",
+          "sprite": "ball_light_dark10"
+        },
+        {
+          "name": "ball_light_dark11",
+          "sprite": "ball_light_dark11"
+        },
+        {
+          "name": "ball_light_dark12",
+          "sprite": "ball_light_dark12"
+        },
+        {
+          "name": "ball_light_dark13",
+          "sprite": "ball_light_dark13"
+        },
+        {
+          "name": "ball_light_dark14",
+          "sprite": "ball_light_dark14"
+        },
+        {
+          "name": "ball_light_dark15",
+          "sprite": "ball_light_dark15"
+        },
+        {
+          "name": "ball_light_dark16",
+          "sprite": "ball_light_dark16"
         }
       ],
       "collider": {
@@ -10928,6 +11152,38 @@
         {
           "name": "ball_huge8",
           "sprite": "ball_huge8"
+        },
+        {
+          "name": "ball_huge9",
+          "sprite": "ball_huge9"
+        },
+        {
+          "name": "ball_huge10",
+          "sprite": "ball_huge10"
+        },
+        {
+          "name": "ball_huge11",
+          "sprite": "ball_huge11"
+        },
+        {
+          "name": "ball_huge12",
+          "sprite": "ball_huge12"
+        },
+        {
+          "name": "ball_huge13",
+          "sprite": "ball_huge13"
+        },
+        {
+          "name": "ball_huge14",
+          "sprite": "ball_huge14"
+        },
+        {
+          "name": "ball_huge15",
+          "sprite": "ball_huge15"
+        },
+        {
+          "name": "ball_huge16",
+          "sprite": "ball_huge16"
         }
       ],
       "blend": "mul+add",
@@ -10971,6 +11227,38 @@
         {
           "name": "ball_huge_dark8",
           "sprite": "ball_huge_dark8"
+        },
+        {
+          "name": "ball_huge_dark9",
+          "sprite": "ball_huge_dark9"
+        },
+        {
+          "name": "ball_huge_dark10",
+          "sprite": "ball_huge_dark10"
+        },
+        {
+          "name": "ball_huge_dark11",
+          "sprite": "ball_huge_dark11"
+        },
+        {
+          "name": "ball_huge_dark12",
+          "sprite": "ball_huge_dark12"
+        },
+        {
+          "name": "ball_huge_dark13",
+          "sprite": "ball_huge_dark13"
+        },
+        {
+          "name": "ball_huge_dark14",
+          "sprite": "ball_huge_dark14"
+        },
+        {
+          "name": "ball_huge_dark15",
+          "sprite": "ball_huge_dark15"
+        },
+        {
+          "name": "ball_huge_dark16",
+          "sprite": "ball_huge_dark16"
         }
       ],
       "collider": {
