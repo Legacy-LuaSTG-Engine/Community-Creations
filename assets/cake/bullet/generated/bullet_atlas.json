@@ -4994,14 +4994,14 @@
       "name": "laser_node1",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 1646,
-        "y": 325,
-        "width": 40,
-        "height": 40
+        "x": 1146,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5009,14 +5009,14 @@
       "name": "laser_node2",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 1688,
-        "y": 325,
-        "width": 40,
-        "height": 40
+        "x": 1212,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5024,14 +5024,14 @@
       "name": "laser_node3",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 1730,
-        "y": 325,
-        "width": 40,
-        "height": 40
+        "x": 1278,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5039,14 +5039,14 @@
       "name": "laser_node4",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 1772,
-        "y": 325,
-        "width": 40,
-        "height": 40
+        "x": 1344,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5054,14 +5054,14 @@
       "name": "laser_node5",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 1814,
-        "y": 325,
-        "width": 40,
-        "height": 40
+        "x": 1410,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5069,14 +5069,14 @@
       "name": "laser_node6",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 1856,
-        "y": 325,
-        "width": 40,
-        "height": 40
+        "x": 1476,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5084,14 +5084,14 @@
       "name": "laser_node7",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 1898,
-        "y": 325,
-        "width": 40,
-        "height": 40
+        "x": 1542,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5099,14 +5099,14 @@
       "name": "laser_node8",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 1940,
-        "y": 325,
-        "width": 40,
-        "height": 40
+        "x": 1608,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5114,14 +5114,14 @@
       "name": "laser_node9",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 1982,
-        "y": 325,
-        "width": 40,
-        "height": 40
+        "x": 1674,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5129,14 +5129,14 @@
       "name": "laser_node10",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 1,
-        "y": 379,
-        "width": 40,
-        "height": 40
+        "x": 1740,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5144,14 +5144,14 @@
       "name": "laser_node11",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 43,
-        "y": 379,
-        "width": 40,
-        "height": 40
+        "x": 1806,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5159,14 +5159,14 @@
       "name": "laser_node12",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 85,
-        "y": 379,
-        "width": 40,
-        "height": 40
+        "x": 1872,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5174,14 +5174,14 @@
       "name": "laser_node13",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 127,
-        "y": 379,
-        "width": 40,
-        "height": 40
+        "x": 1938,
+        "y": 131,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5189,14 +5189,14 @@
       "name": "laser_node14",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 169,
-        "y": 379,
-        "width": 40,
-        "height": 40
+        "x": 1,
+        "y": 197,
+        "width": 64,
+        "height": 64
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5204,14 +5204,14 @@
       "name": "laser_node15",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 211,
-        "y": 379,
-        "width": 40,
-        "height": 40
+        "x": 67,
+        "y": 197,
+        "width": 64,
+        "height": 63
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
@@ -5219,14 +5219,14 @@
       "name": "laser_node16",
       "texture": "bullet_atlas",
       "rect": {
-        "x": 253,
-        "y": 379,
-        "width": 40,
-        "height": 40
+        "x": 133,
+        "y": 197,
+        "width": 64,
+        "height": 63
       },
       "center": {
-        "x": 20.0,
-        "y": 20.0
+        "x": 32.0,
+        "y": 32.0
       },
       "scaling": 0.5
     },
