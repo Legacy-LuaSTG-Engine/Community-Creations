@@ -979,8 +979,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark2",
@@ -995,8 +994,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark3",
@@ -1011,8 +1009,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark4",
@@ -1027,8 +1024,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark5",
@@ -1043,8 +1039,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark6",
@@ -1059,8 +1054,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark7",
@@ -1075,8 +1069,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark8",
@@ -1091,8 +1084,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark9",
@@ -1107,8 +1099,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark10",
@@ -1123,8 +1114,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark11",
@@ -1139,8 +1129,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark12",
@@ -1155,8 +1144,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark13",
@@ -1171,8 +1159,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark14",
@@ -1187,8 +1174,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark15",
@@ -1203,8 +1189,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge_dark16",
@@ -1219,8 +1204,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_huge1",
@@ -1491,8 +1475,7 @@
         "x": 63.0,
         "y": 63.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark2",
@@ -1507,8 +1490,7 @@
         "x": 64.0,
         "y": 63.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark3",
@@ -1523,8 +1505,7 @@
         "x": 64.0,
         "y": 63.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark4",
@@ -1539,8 +1520,7 @@
         "x": 64.0,
         "y": 63.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark5",
@@ -1555,8 +1535,7 @@
         "x": 63.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark6",
@@ -1571,8 +1550,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark7",
@@ -1587,8 +1565,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark8",
@@ -1603,8 +1580,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark9",
@@ -1619,8 +1595,7 @@
         "x": 63.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark10",
@@ -1635,8 +1610,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark11",
@@ -1651,8 +1625,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark12",
@@ -1667,8 +1640,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark13",
@@ -1683,8 +1655,7 @@
         "x": 63.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark14",
@@ -1699,8 +1670,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark15",
@@ -1715,8 +1685,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light_dark16",
@@ -1731,8 +1700,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "ball_light1",
@@ -3443,8 +3411,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark2",
@@ -3459,8 +3426,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark3",
@@ -3475,8 +3441,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark4",
@@ -3491,8 +3456,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark5",
@@ -3507,8 +3471,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark6",
@@ -3523,8 +3486,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark7",
@@ -3539,8 +3501,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark8",
@@ -3555,8 +3516,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark9",
@@ -3571,8 +3531,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark10",
@@ -3587,8 +3546,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark11",
@@ -3603,8 +3561,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark12",
@@ -3619,8 +3576,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark13",
@@ -3635,8 +3591,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark14",
@@ -3651,8 +3606,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark15",
@@ -3667,8 +3621,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge_dark16",
@@ -3683,8 +3636,7 @@
         "x": 62.0,
         "y": 62.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_huge1",
@@ -3955,8 +3907,7 @@
         "x": 63.0,
         "y": 63.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark2",
@@ -3971,8 +3922,7 @@
         "x": 64.0,
         "y": 63.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark3",
@@ -3987,8 +3937,7 @@
         "x": 64.0,
         "y": 63.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark4",
@@ -4003,8 +3952,7 @@
         "x": 64.0,
         "y": 63.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark5",
@@ -4019,8 +3967,7 @@
         "x": 63.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark6",
@@ -4035,8 +3982,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark7",
@@ -4051,8 +3997,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark8",
@@ -4067,8 +4012,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark9",
@@ -4083,8 +4027,7 @@
         "x": 63.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark10",
@@ -4099,8 +4042,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark11",
@@ -4115,8 +4057,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark12",
@@ -4131,8 +4072,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark13",
@@ -4147,8 +4087,7 @@
         "x": 63.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark14",
@@ -4163,8 +4102,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark15",
@@ -4179,8 +4117,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light_dark16",
@@ -4195,8 +4132,7 @@
         "x": 64.0,
         "y": 64.0
       },
-      "scaling": 0.5,
-      "blend": "mul+add"
+      "scaling": 0.5
     },
     {
       "name": "fade_ball_light1",
